@@ -30,6 +30,8 @@ body {
 }
 #edit textarea {
     width: 65vw;
+    resize: vertical;
+    min-height: 60px;
 }
 
 #font {
