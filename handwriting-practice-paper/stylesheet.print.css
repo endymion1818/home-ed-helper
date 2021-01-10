@@ -18,7 +18,6 @@
         flex-direction: row;
         position: relative;
         width: 100%;
-        margin-bottom: 40px;
     }
     #printarea__header p:first-child {
         position: absolute;
