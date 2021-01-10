@@ -48,6 +48,7 @@ body {
     max-width: 800px;
     background-repeat: no-repeat;
     background-size: cover;
+    min-height: 200px;
 }
 #printarea__header {
     display: none;
