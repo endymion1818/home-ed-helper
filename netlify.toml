@@ -2,3 +2,4 @@
   for = "/*"
   [headers.values]
     Access-Control-Allow-Origin = "https://wizardly-ritchie-11d720.netlify.app/api"
+    Access-Control-Allow-Headers = "Content-Type, Authorization, Time-Zone"
